@@ -9,6 +9,7 @@ Here are some of my academic projects at ENSAE !
 ### Currently working on :
 
 * Accident severity prediction using machine learning models in association with the [CREST](https://crest.science/). [Project](https://github.com/solinemignot/statapp_sujet26)
+* Unbiased Gradient Estimator using Monte-Carlo method (autonormalized importance sampling, ...) [Project](https://github.com/VSmague/Unbiased_Gradient)
 
 ### Some Projects :
 
