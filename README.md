@@ -16,7 +16,6 @@ Here are some of my academic projects at MVA and at ENSAE !
 
 * Music genre prediction in Python using machine learning models (Random Forest, XGBosst) and Spotify's API. [Project](https://github.com/TurboClem/Python-pour-la-Data-Science)
 * Delivery network optimization in Python using deterministic algorithms (Kruskal's Algorithm, Floyd-Warshall algorithm) and non deterministic algorithms (greedy algorithm). [Project](https://github.com/VSmague/ensae-prog23)
-* Accident severity prediction using machine learning models in association with the [CREST](https://crest.science/). [Project](https://github.com/solinemignot/statapp_sujet26)
 
 ### How to reach me :
 
