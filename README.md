@@ -1,6 +1,6 @@
 ## Valentin SMAGUE
 
-3nd year student at [ENS Paris-Saclay MVA](https://www.master-mva.com/) and at [ENSAE Paris](https://www.ensae.fr/).
+3rd year student at [ENS Paris-Saclay MVA](https://www.master-mva.com/) and at [ENSAE Paris](https://www.ensae.fr/).
 
 Data Science, Machine Learning and Statistics enthusiast.
 
@@ -8,6 +8,8 @@ Here are some of my academic projects at MVA and at ENSAE !
 
 ### Currently working on :
 
+* Dynamical Variational Autoencoders [Project]()
+* Sutom solver applying information theory basics
 
 
 ### Some Projects :
