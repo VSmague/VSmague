@@ -8,7 +8,7 @@ Here are some of my academic projects at MVA and at ENSAE !
 
 ### Currently working on :
 
-* Dynamical Variational Autoencoders [Project]()
+* Dynamical Variational Autoencoders [Project](https://github.com/VSmague/Dynamical-Variational-Autoencoders)
 * Sutom solver applying information theory basics
 
 
