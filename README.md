@@ -6,14 +6,12 @@ Data Science, Machine Learning and Statistics enthusiast.
 
 Here are some of my academic projects at MVA and at ENSAE !
 
-### Currently working on :
-
-* Dynamical Variational Autoencoders [Project](https://github.com/VSmague/Dynamical-Variational-Autoencoders)
-* Sutom solver applying information theory basics
-
-
 ### Some Projects :
 
+* Adversarial Robustness of CNNs for Satellite Image Classification [Project](https://github.com/TurboClem/Adversarial_examples)
+* Symbolic representation time series using ABBA and LSTMs [Project](https://github.com/VSmague/ABBA_LSTM)
+* Speech generation using dynamical variational autoencoders [Project](https://github.com/VSmague/Dynamical-Variational-Autoencoders)
+* Sutom solver applying information theory basics [Project](https://github.com/VSmague/SUTOM-solver)
 * Music genre prediction in Python using machine learning models (Random Forest, XGBosst) and Spotify's API. [Project](https://github.com/TurboClem/Python-pour-la-Data-Science)
 * Delivery network optimization in Python using deterministic algorithms (Kruskal's Algorithm, Floyd-Warshall algorithm) and non deterministic algorithms (greedy algorithm). [Project](https://github.com/VSmague/ensae-prog23)
 
